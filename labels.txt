@@ -1,0 +1,3 @@
+0 Mantarrayas
+1 Peces Espada
+2 Peces Payaso
